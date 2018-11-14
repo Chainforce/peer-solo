@@ -5,6 +5,11 @@
 *.so
 *.dylib
 
+# Mac files
+.DS_Store
+crypto-config
+config
+
 # Test binary, build with `go test -c`
 *.test
 
